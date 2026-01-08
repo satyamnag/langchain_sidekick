@@ -28,4 +28,4 @@ The app includes a clean **Gradio** chat interface where you can provide a task 
 
 ## Demo Screenshot
 
-
+![langchain_sidekick_screenshot](https://github.com/satyamnag/langchain_sidekick/blob/da1f8f7bec217fbc5d76d7c37a3ed1388343ba76/assets/langchain_sidekick_screenshot.png)
