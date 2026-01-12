@@ -24,10 +24,6 @@ It features a self-improving loop: after each attempt, an evaluator LLM reviews 
 - 📝 **Memory** via LangGraph checkpointer (conversation history preserved across loops)
 - 💬 **Gradio UI** with task input and optional success criteria field
 
-## 🖼️ Demo Screenshot
-
-![langchain_sidekick_screenshot](https://github.com/satyamnag/langchain_sidekick/blob/da1f8f7bec217fbc5d76d7c37a3ed1388343ba76/assets/langchain_sidekick_screenshot.png)
-
 ## 🔐 Environment Variables
 #### PUSHOVER_USER=your pushover user ID
 #### PUSHOVER_TOKEN=your pushover token
@@ -41,3 +37,7 @@ It features a self-improving loop: after each attempt, an evaluator LLM reviews 
 #### SEARCHAPI_API=your searchapi api key
 #### SERPAPI_API_KEY=your serpapi api key
 #### OPENWEATHERMAP_API_KEY=your openweather api key
+
+## 🖼️ Demo Screenshot
+
+![langchain_sidekick_screenshot](https://github.com/satyamnag/langchain_sidekick/blob/da1f8f7bec217fbc5d76d7c37a3ed1388343ba76/assets/langchain_sidekick_screenshot.png)
